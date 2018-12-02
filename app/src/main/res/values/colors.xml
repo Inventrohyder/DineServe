@@ -3,4 +3,22 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="textColorRestaurantDetails">#B4BAC0</color>
+
+    <color name="textColorRestaurantName">#2B3D4D</color>
+
+    <color name="magnitude5">#4A7BA7</color>
+
+    <color name="magnitude4">#10CAC9</color>
+
+    <color name="magnitude3">#FF7D50</color>
+
+    <color name="magnitude2">#E75F40</color>
+
+    <color name="magnitude1">#D93218</color>
+
+    <color name="textColorManyAvailable">#4caf50</color>
+    <color name="textColorSomeAvailable">#f57f17</color>
+    <color name="textColorLessAvailable">#f44336</color>
 </resources>
